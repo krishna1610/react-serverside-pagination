@@ -1,0 +1,7 @@
+button{
+  margin: 10px;
+}
+
+.selected-btn-style{
+  background-color: rgb(107, 198, 226);
+}
